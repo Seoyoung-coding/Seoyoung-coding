@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Seoyoung 👋
+🎓 Data Science & Statistics @ UC Santa Barbara
+📜 Technology Management Certificate @ UC Santa Barbara
+🌏 Exchange Student @ Keio University
 
-<!--
-**Seoyoung-coding/Seoyoung-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Data Science & Statistics student interested in
+Data Engineering, Machine Learning, and Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- Java
+- Spring Boot
+- MySQL
+- SQL
+- Vue.js
+- Git / GitHub
+
+## Projects
+
+### E-commerce Abuse Detection System
+- Built an e-commerce platform with Spring Boot, Vue, and MySQL
+- Implemented seller/customer/admin roles
+- Developing refund and reshipment abuse detection logic
+
+### Product Data Analysis
+- Collected e-commerce product data using Playwright
+- Cleaned and processed raw pricing data using SQL
+
+## Currently Learning
+
+- Statistics
+- Data Engineering
+- Algorithms & Data Structures
