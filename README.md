@@ -1,7 +1,7 @@
 # Hi, I'm Seoyoung 👋
-🎓 Data Science & Statistics @ UC Santa Barbara
-📜 Technology Management Certificate @ UC Santa Barbara
-🌏 Exchange Student @ Keio University
+🎓 Data Science & Statistics @ UC Santa Barbara  
+📜 Technology Management Certificate @ UC Santa Barbara  
+🌏 Exchange Student @ Keio University  
 
 
 Data Science & Statistics student interested in
